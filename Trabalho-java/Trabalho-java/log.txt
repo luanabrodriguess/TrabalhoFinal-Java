@@ -1,0 +1,32 @@
+2025-06-10T14:14:15.480569 - Sistema encerrado
+2025-06-10T17:13:47.927517300 - Sistema encerrado
+2025-06-10T17:45:49.524892700 - Participante cadastrado: salomao (CPF: 12331727945)
+2025-06-10T17:46:24.461686600 - Participante removido: CPF 12331727945
+2025-06-10T17:57:23.637989600 - Sistema encerrado
+2025-06-10T19:26:02.386426200 - Sistema encerrado
+2025-06-10T19:48:32.131384100 - Sistema encerrado
+2025-06-10T19:49:26.520925 - Participante cadastrado: joao (CPF: 11725542935)
+2025-06-10T19:49:52.072988800 - Participante atualizado: CPF 11725542935
+2025-06-10T19:51:10.551086300 - Organizador cadastrado: org 1 (CPF: 12345678911)
+2025-06-10T19:51:39.976311100 - Evento cadastrado: warung day
+2025-06-10T19:51:44.565351100 - Evento: warung day | Local: pedreira | Data: 2025-03-05 | Organizador: org 1 | Participantes: 0
+2025-06-10T19:51:55.324342700 - Evento: warung day | Local: pedreira | Data: 2025-03-05 | Organizador: org 1 | Participantes: 0
+2025-06-10T19:51:58.114664200 - Evento: warung day | Local: pedreira | Data: 2025-03-05 | Organizador: org 1 | Participantes: 0
+2025-06-10T19:52:00.281781500 - Evento: warung day | Local: pedreira | Data: 2025-03-05 | Organizador: org 1 | Participantes: 0
+2025-06-10T19:52:01.093486300 - Evento: warung day | Local: pedreira | Data: 2025-03-05 | Organizador: org 1 | Participantes: 0
+2025-06-10T19:52:01.640693400 - Evento: warung day | Local: pedreira | Data: 2025-03-05 | Organizador: org 1 | Participantes: 0
+2025-06-10T19:52:02.009986900 - Evento: warung day | Local: pedreira | Data: 2025-03-05 | Organizador: org 1 | Participantes: 0
+2025-06-10T19:52:02.364156200 - Evento: warung day | Local: pedreira | Data: 2025-03-05 | Organizador: org 1 | Participantes: 0
+2025-06-10T19:52:04.995943100 - Evento: warung day | Local: pedreira | Data: 2025-03-05 | Organizador: org 1 | Participantes: 0
+2025-06-10T19:52:08.063384900 - Evento: warung day | Local: pedreira | Data: 2025-03-05 | Organizador: org 1 | Participantes: 0
+2025-06-10T19:52:15.127098 - Evento: warung day | Local: pedreira | Data: 2025-03-05 | Organizador: org 1 | Participantes: 0
+2025-06-10T19:52:25.897672600 - Evento: warung day | Local: pedreira | Data: 2025-03-05 | Organizador: org 1 | Participantes: 0
+2025-06-10T19:52:27.153535 - Evento: warung day | Local: pedreira | Data: 2025-03-05 | Organizador: org 1 | Participantes: 0
+2025-06-10T19:52:27.615969400 - Evento: warung day | Local: pedreira | Data: 2025-03-05 | Organizador: org 1 | Participantes: 0
+2025-06-10T19:52:27.980607900 - Evento: warung day | Local: pedreira | Data: 2025-03-05 | Organizador: org 1 | Participantes: 0
+2025-06-10T19:52:28.327977400 - Evento: warung day | Local: pedreira | Data: 2025-03-05 | Organizador: org 1 | Participantes: 0
+2025-06-10T19:52:28.640065200 - Evento: warung day | Local: pedreira | Data: 2025-03-05 | Organizador: org 1 | Participantes: 0
+2025-06-10T19:52:29.882192400 - Evento: warung day | Local: pedreira | Data: 2025-03-05 | Organizador: org 1 | Participantes: 0
+2025-06-10T19:52:34.571816300 - Sistema encerrado
+2025-06-10T19:58:36.231416 - Participante cadastrado: matheus seara (CPF: 00000000000)
+2025-06-10T20:00:33.909789700 - Sistema encerrado
